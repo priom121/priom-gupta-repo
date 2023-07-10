@@ -1,0 +1,101 @@
+*{
+margin:0;
+padding:0;
+}
+.content{
+  background-color: rgb(2, 1, 1);
+  padding:20px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+.item{
+     color:white;
+     list-style:none;
+      font-size: large;
+      padding:25px;
+      margin:52px;
+      display:flex;
+      
+}
+.yamaha{
+      width:450px;
+}
+.item li{
+              margin-left:20px; 
+              padding: 12px;
+              font-size: large;
+              font-weight: 900;
+              font-family: Arial, Helvetica, sans-serif;
+              border:3px solid crimson;
+              transition:2s;
+              background-color: blue;  
+}
+.item li:hover{
+                    cursor: pointer;
+
+}
+.mp{
+                    background-color: rgb(172, 163, 163);
+                    display:flex;
+                    justify-content: space-around;
+                    height: 100vh;
+                    align-items: center;
+                    border:2px solid crimson;
+
+}
+.bike{
+             text-align: center;
+            font-size: 100px;
+            font-weight: bold;
+            margin-bottom:600px;
+             padding:10px
+}
+.down{
+      margin-top:100px;
+      font-size: large;
+       color:white;
+       margin-right:600px;
+       margin-top: 500px;
+}
+.priom{
+     width:350px;
+}
+#ktm{
+      text-align: center;
+      font-size:80px;
+      font-weight: 900;
+      margin-left: 50px;
+      margin:50px;
+     
+      
+}
+.duke{
+   margin-right:500px;
+   margin-left: 700px;
+}
+.motor{
+      margin-right:400px;
+      background-color:gray;
+      width: 220px;
+      height: max-content;
+     
+}
+.menu{
+
+      background-color: black;
+      color:white;
+      height: 100px;
+      width:100%;
+      text-align: center;
+      padding:80px;
+      font-family: Arial, Helvetica, sans-serif;
+      
+}
+.id{
+            margin-top:100px;
+            text-align:justify;
+            font-size: 30px;
+}
